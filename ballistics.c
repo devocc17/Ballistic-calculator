@@ -53,7 +53,7 @@ int main(void){
                         v = 3130;
                 break;
                 case '6':
-                        printf("8mm Mauser");
+                        printf("8x57mm Mauser");
                         v = 26500;
                 break;
 
